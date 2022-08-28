@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to Aayushman Ghosh's academic journey
 
 <!--
 **aayushmanghosh/aayushmanghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
