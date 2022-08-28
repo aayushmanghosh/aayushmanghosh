@@ -1,5 +1,6 @@
-### ***Biography***
+### ***About me***
 
+I am a senior year undergraduate student in the Department of Electronics and Telecommunication Engineering, [Indian Institute of Engineering Science and Technology, Shibpur](https://www.iiests.ac.in/). 
 
 <!--
 **aayushmanghosh/aayushmanghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
