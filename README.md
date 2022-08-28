@@ -12,3 +12,7 @@ Other than my Professional commitments, I am also engaged in few unofficial rese
 ### ***Research Interests***
 > Non-linear Optics, Nanophotonics, Silicon Photonics, Photonic devices and circuits for beyond terascale communication, Cardiovascular Hemodynamics, Statistical Signal Processing, Brain Machine Interface, Machine Learning, Deep Learning, Reinforcement Learning.
 
+
+### ***Important Links***
+- [LinkedIn](https://www.linkedin.com/in/aayushmanghosh01/)
+- [Google Scholar](https://scholar.google.com/citations?user=VT3sKWUAAAAJ&hl=en)
